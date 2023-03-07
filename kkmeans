@@ -195,7 +195,7 @@ public class kkmeans {
             }
             if (contadornoceros[r] != 0) {
                 double prom = (contadorks[r] / contadornoceros[r]);
-           //     System.out.print("promediode K" + (r + 1) + " " + prom);
+     
             }
 
             System.out.println("");
